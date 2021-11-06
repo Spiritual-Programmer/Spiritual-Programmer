@@ -1,4 +1,4 @@
-# Hello, Welcome To My GitHub Page 👋
+# <h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> Hello, Welcome To My GitHub Page 
 <br>
 
 ## 👨🏻‍💻 &nbsp;About Me
@@ -40,6 +40,15 @@ individual each year
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=CD6799)
 -->
+<p>
+ <h2>📖 I’m currently learning</h2>
+</p>
+<p>
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Js" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/fluent/48/000000/docker.png"height="40" style="vertical-align:top; margin:4px"/>
+</p>
 
 ## ⚙️ GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Spiritual-Programmer&show_icons=true&hide=stars,issues)
@@ -69,5 +78,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🤝🏻 &nbsp;Connect with Me
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">Connect with Me
 <a target="_blank" title="https://www.linkedin.com/in/kamaljot-singh/" href="https://www.linkedin.com/in/kamaljot-singh/"><img src="https://img.shields.io/badge/-Kamaljot&nbsp;Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  
+[![Siddhant Prateek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Spiritual-Programmer&theme=github)](https://github.com/Spiritual-Programmer/github-readme-activity-graph)
