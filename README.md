@@ -51,6 +51,8 @@ individual each year
 </p>
 
 ## ⚙️ GitHub Stats
+![Profile View Counter](https://komarev.com/ghpvc/?username=Spiritual-Programmer)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Spiritual-Programmer&show_icons=true&hide=stars,issues)
 
 ## Most Used Languages
@@ -58,10 +60,6 @@ individual each year
 
 ## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## Profile View Counts
-![Profile View Counter](https://komarev.com/ghpvc/?username=Spiritual-Programmer)
-
 
 <!--
 **Spiritual-Programmer/Spiritual-Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -77,8 +75,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+[![Siddhant Prateek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Spiritual-Programmer&theme=github)](https://github.com/Spiritual-Programmer/github-readme-activity-graph)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">Connect with Me
 <a target="_blank" title="https://www.linkedin.com/in/kamaljot-singh/" href="https://www.linkedin.com/in/kamaljot-singh/"><img src="https://img.shields.io/badge/-Kamaljot&nbsp;Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  
-[![Siddhant Prateek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Spiritual-Programmer&theme=github)](https://github.com/Spiritual-Programmer/github-readme-activity-graph)
