@@ -1,7 +1,7 @@
 # Hello, Welcome To My GitHub 👋
 
 ## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Spiritual-Programmer&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Spiritual-Programmer&show_icons=true&hide=stars,issues)
 
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Spiritual-Programmer&theme=blue-green)
