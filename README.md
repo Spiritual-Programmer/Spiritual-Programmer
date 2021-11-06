@@ -9,7 +9,7 @@
 ## 3. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## Profile View Counter
+## Profile View Counts
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Spiritual-Programmer)
 
 
