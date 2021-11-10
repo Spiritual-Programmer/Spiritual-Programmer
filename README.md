@@ -5,7 +5,7 @@
 - ⚡ I am a Full-Stack Developer
 - 🔍 Actively seeking full time work
 - 💻 Follow my [blog](https://kamaljot.hashnode.dev/) to stay updated on Full Stack Development
-- 📝 Published [visualization dashboards](http://rchi.cs.ucr.edu/) and a [documentation report](https://drive.google.com/file/d/16CCNvVJ-g6avXyIKELxcu-w3IKjQtLSv/view) to thousands of users along with a team of 7 developers
+- 📝 Published [visualization dashboards](http://rchi.cs.ucr.edu/) and a [documentated report](https://drive.google.com/file/d/16CCNvVJ-g6avXyIKELxcu-w3IKjQtLSv/view) to thousands of users along with a team of 7 developers
 - 🎓 Won a prestigious [full-ride scholarship](http://z1077fm.com/copper-mountain-college-scholarship-winner-earns-bachelors-degree/) awarded to only one well-rounded 
 individual each year
 - 🤼‍♂️ When I am not coding in my spare time, I am [competing](https://www.youtube.com/watch?v=QPQ--R2kylA&t=1s) in Brazilian Jiu-Jitsu matches
