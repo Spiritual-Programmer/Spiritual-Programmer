@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-[![Siddhant Prateek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Spiritual-Programmer&theme=github)](https://github.com/Spiritual-Programmer/github-readme-activity-graph)
+[![Kamaljot's github activity graph](https://activity-graph.herokuapp.com/graph?username=Spiritual-Programmer&theme=github)](https://github.com/Spiritual-Programmer/github-readme-activity-graph)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">Connect with Me
 <a target="_blank" title="https://www.linkedin.com/in/kamaljot-singh/" href="https://www.linkedin.com/in/kamaljot-singh/"><img src="https://img.shields.io/badge/-Kamaljot&nbsp;Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
